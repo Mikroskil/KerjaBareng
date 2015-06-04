@@ -1,3 +1,9 @@
+# Kerja Kelompok :
+ 1. Apriyanto Halim
+ 2. Maria Rosalina Manik
+ 3. Dinda Pratiwi Manurung
+ 4. Herlina
+
 # Hello World
 > A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
 
