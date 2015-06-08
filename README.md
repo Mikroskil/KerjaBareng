@@ -6,7 +6,10 @@
 
 #Judul Presentasi Kami : "Influenza"
 
-# Hello World
+# Kerja Bareng
+Kami berempat akan membuat presentasi tentang influenza, mungkin semuanya sudah mengerti tentang apa itu influenza, tetapi kami ingin memperjelasnya lagi denganpresentasi kami ini.
+
+# Kerja Bareng
 > A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
 
 ## View slides locally
